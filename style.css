@@ -5,3 +5,7 @@ p, h1, .budget__title, .budget__value, .budget__income--text, .budget__income--v
 .jumbotron {
 
 }
+
+.right { float: right; }
+.red { color: #FF5049 !important; }
+.red-focus:focus { border: 1px solid #FF5049 !important; }
